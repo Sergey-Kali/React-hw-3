@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  text-align: center;
+}
+
+.main {
+  background-color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.aside {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #86a3b4;
+  width: 400px;
+  padding: 2em;
+}

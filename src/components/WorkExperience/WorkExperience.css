@@ -1,0 +1,29 @@
+.work-experience {
+  font-family: Arial, sans-serif;
+  padding: 24px;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+
+.work-experience h3 {
+  font-weight: bold;
+}
+
+.workplace-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container ul {
+  list-style-type: none;
+  margin-right: 20px;
+}
